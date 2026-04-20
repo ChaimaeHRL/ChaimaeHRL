@@ -1,82 +1,114 @@
 # Hi, I'm Chaimae El Haroual 👋
 
 🎓 Final-year Computer Science student at University of Namur  
-💻 Backend & Web Developer
+💻 Backend & Web Developer  
 🚀 Interested in building data-driven applications and solving real-world problems  
 
 ---
 
 ## About Me
 
-I am a motivated and curious computer science student specializing in software development and web applications.  
-I enjoy designing backend systems, building REST APIs, and working on projects that solve real problems.
+I am a motivated and curious computer science student specializing in software development and web applications.
 
-Through my academic projects and professional experiences, I developed strong skills in:
-- Backend development
-- Problem-solving
-- Teamwork and leadership
+I enjoy designing backend systems, building REST APIs, and creating practical solutions to real problems.
 
-I am currently looking for an internship where I can contribute to real-world projects and grow as a developer.
+Through academic projects and professional experiences, I developed strong skills in:
+
+- Backend development  
+- Problem-solving  
+- Teamwork  
+- Leadership  
+- Adaptability  
+
+I am currently looking for an internship where I can contribute, learn quickly, and grow as a developer.
 
 ---
 
 ## Featured Project
 
-### My Agenda – Smart Time Management Assistant
- https://github.com/ChaimaeHRL/my-agenda  
+# My Agenda – Smart Time Management Assistant
 
-A full-stack web application designed to help users manage their time efficiently and prevent burnout using data-driven insights.
+🔗 Repository:  
+https://github.com/ChaimaeHRL/my-agenda
 
-###  Key Features:
+A full-stack web application designed to help users manage their time efficiently and prevent overload through smart planning and data-driven insights.
+
+### Key Features
+
 - Smart scheduling based on workload and stress levels  
 - REST API built with Django REST Framework  
-- Asynchronous task processing using Celery & Redis  
-- Workload and stress analytics  
-- Interactive calendar (FullCalendar.js)  
+- Asynchronous task processing with Celery & Redis  
+- Workload analytics and metrics dashboard  
+- Interactive calendar with FullCalendar.js  
+- Multi-language support  
+
+### Tech Stack
+
+Python • Django • Django REST Framework • JavaScript • TailwindCSS • SQLite • Redis • Celery
 
 ---
 
-##  Experience
+## Experience
 
-###  IT Intern – Oxfam (IT Department)
-- Assisted in managing and organizing IT equipment  
-- Provided basic technical support (installation, verification, maintenance)  
-- Discovered real-world IT environments  
+### IT Intern – Oxfam (IT Department)
 
-###  Team Leader – Chocolaterie (Student Job)
-- Managed and coordinated a team  
-- Organized tasks and handled priorities  
-- Developed leadership and stress management skills  
+- Assisted in organizing and managing IT equipment  
+- Provided technical support and basic maintenance  
+- Discovered real-world IT operations  
+- Worked in a collaborative environment  
 
-###  Freelance Translator (FR / EN / AR)
+### Team Leader – Chocolaterie (Student Job)
+
+- Coordinated team tasks and priorities  
+- Managed responsibilities in a fast-paced environment  
+- Developed leadership and communication skills  
+- Improved stress management and organization  
+
+### Freelance Translator (FR / EN / AR)
+
 - Delivered translations for international clients  
-- Worked independently and respected deadlines  
+- Worked independently and met deadlines  
+- Strengthened communication skills  
 
 ---
 
-##  Technical Skills
+## Technical Skills
 
-### Programming
-- Python, JavaScript, SQL, C  
+### Programming Languages
+
+- Python  
+- JavaScript  
+- SQL  
+- C  
 
 ### Frameworks & Technologies
-- Django, Django REST Framework  
-- TailwindCSS, Alpine.js  
-- Celery, Redis  
+
+- Django  
+- Django REST Framework  
+- TailwindCSS  
+- Alpine.js  
+- Celery  
+- Redis  
 - FullCalendar.js  
 
 ### Concepts
-- Object-Oriented Programming (OOP)  
+
+- Object-Oriented Programming  
 - REST API Design  
 - Asynchronous Processing  
+- Database Modeling  
+- MVC Architecture  
 
 ### Tools
-- Git, GitHub  
+
+- Git  
+- GitHub  
 - Linux  
+- VS Code  
 
 ---
 
-##  Languages
+## Languages
 
 - Arabic: Native  
 - French: Fluent  
@@ -85,19 +117,23 @@ A full-stack web application designed to help users manage their time efficientl
 
 ---
 
-##  Interests
+## Interests
 
-- Backend development  
-- Artificial Intelligence & Data Analysis  
-- System optimization and productivity  
-- Learning new technologies  
+- Backend Development  
+- Web Applications  
+- Artificial Intelligence  
+- Data Analysis  
+- Productivity Tools  
+- Learning New Technologies  
 
 ---
 
-##  Contact
+## Contact
 
-- Email: elharoualchaimae@gmail.com  
-- LinkedIn: https://www.linkedin.com/in/chaimae-el-haroual-a81251224/
+📧 Email: elharoualchaimae@gmail.com  
+🔗 LinkedIn: https://www.linkedin.com/in/chaimae-el-haroual-81251224/  
+💻 GitHub: https://github.com/ChaimaeHRL
+
 ---
 
-⭐ *Always open to learning, building, and contributing to impactful projects*
+⭐ Always open to learning, building, and contributing to impactful projects.
