@@ -1,4 +1,4 @@
-# Hi, I'm Chaimae El Haroual 👋
+# Hi, I'm Chaimae El Haroual 
 
 🎓 Final-year Computer Science student at the University of Namur  
 💻 Aspiring Software Engineer | Backend & Full-Stack Development  
@@ -156,7 +156,7 @@ Looking for a software engineering internship where I can contribute to impactfu
 ## Contact
 
 📧 elharoualchaimae@gmail.com  
-💼 LinkedIn: https://linkedin.com/in/chaimae-el-haroual-a81251224  
+💼 LinkedIn: https://linkedin.com/in/chaimae-el-haroual
 💻 GitHub: https://github.com/ChaimaeHRL
 
 ---
