@@ -1,6 +1,6 @@
 # Hi, I'm Chaimae El Haroual 👋
 
-🎓 Master's student in Computer Science — Specialized in AI & Data | UCLouvain  
+🎓 Master's student in Computer Science — Specialized track in AI & Data | UCLouvain  
 💻 Software Engineering | Backend & Full-Stack Development  
 🤖 Artificial Intelligence | Data | Practical Software Solutions  
 📍 Brussels, Belgium
@@ -9,7 +9,7 @@
 
 ## About Me
 
-I am a Computer Science graduate currently pursuing a specialized Master's degree in Artificial Intelligence and Data at UCLouvain.
+I am a Computer Science graduate from the University of Namur, currently pursuing a Master's degree in Computer Science at UCLouvain, with a specialized track in Artificial Intelligence and Data.
 
 I enjoy building practical software, designing REST APIs, working with databases, and turning real-world problems into usable digital solutions.
 
@@ -149,11 +149,11 @@ Currently developing my expertise in:
 
 ## Education
 
-🎓 **Master's in Computer Science — Specialized in Artificial Intelligence & Data**  
+🎓 **Master's in Computer Science — Specialized track in Artificial Intelligence & Data**  
 **UCLouvain | 2026 – Present**
 
 🎓 **Bachelor's in Computer Science**  
-**University of Namur**
+**University of Namur | Completed**
 
 ---
 
