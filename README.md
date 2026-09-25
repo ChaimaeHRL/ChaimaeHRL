@@ -1,15 +1,15 @@
 # Hi, I'm Chaimae El Haroual 👋
 
-🎓 Computer Science student | UCLouvain  
+🎓 Master's student in Computer Science — Specialized in AI & Data | UCLouvain  
 💻 Software Engineering | Backend & Full-Stack Development  
-🤖 Interested in AI, Data & practical software solutions  
+🤖 Artificial Intelligence | Data | Practical Software Solutions  
 📍 Brussels, Belgium
 
 ---
 
 ## About Me
 
-I am a Computer Science student with a strong interest in software engineering, backend development, and data-driven applications.
+I am a Computer Science graduate currently pursuing a specialized Master's degree in Artificial Intelligence and Data at UCLouvain.
 
 I enjoy building practical software, designing REST APIs, working with databases, and turning real-world problems into usable digital solutions.
 
@@ -22,7 +22,7 @@ My current interests include:
 - Database Design
 - Problem Solving
 
-I am currently developing my skills through academic projects, personal projects, and professional experiences while pursuing my studies in Computer Science at UCLouvain.
+My background is primarily in software engineering, with a strong interest in backend development, full-stack applications, AI, and data-driven solutions.
 
 ---
 
@@ -123,6 +123,14 @@ A web application developed around restaurant management and customer services.
 
 \`Django\` \`Django REST Framework\` \`React\` \`TailwindCSS\` \`Redis\` \`Celery\`
 
+### AI & Data
+
+Currently developing my expertise in:
+- Machine Learning
+- Data Analysis
+- Artificial Intelligence
+- Data-Driven Applications
+
 ### Tools
 
 \`Git\` \`GitHub\` \`Linux\` \`VS Code\`
@@ -141,10 +149,11 @@ A web application developed around restaurant management and customer services.
 
 ## Education
 
-🎓 **Computer Science — UCLouvain**  
-Current Master's studies
+🎓 **Master's in Computer Science — Specialized in Artificial Intelligence & Data**  
+**UCLouvain | 2026 – Present**
 
-🎓 **Bachelor in Computer Science — University of Namur**
+🎓 **Bachelor's in Computer Science**  
+**University of Namur**
 
 ---
 
@@ -159,9 +168,11 @@ Current Master's studies
 
 ## Currently
 
-I am focused on strengthening my software engineering skills and exploring the intersection of **software development, AI, and data**.
+I am developing my expertise at the intersection of **software engineering, artificial intelligence, and data**.
 
-I am open to opportunities where I can contribute to real-world projects, learn from experienced developers, and continue growing as a software engineer.
+My goal is to build reliable software systems while applying AI and data-driven approaches to solve practical problems.
+
+I am open to opportunities where I can contribute to real-world projects, learn from experienced teams, and grow as a **Software Engineer / AI & Data Engineer**.
 
 ---
 
